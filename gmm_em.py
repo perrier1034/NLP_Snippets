@@ -1,6 +1,6 @@
 """
 Fit gmm for ./data/faithful.txt
-Fitting algorithm is simple gradient descent method
+Fitting algorithm is EM algo
 """
 # dependencies
 import numpy as np
