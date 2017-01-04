@@ -1,1 +1,1 @@
-# NLP_Snippets
+# machine_learning_snippets
